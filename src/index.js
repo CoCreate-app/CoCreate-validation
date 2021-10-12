@@ -14,18 +14,14 @@ function  validate(btn) {
 	let validateElements = element.querySelectorAll('[unique="false"]');
 	
 	if (validateElements.length){
-		let data = {
-	        type: 'unique',
-	        status: 'failed',
-	        message: 'One or more values are not unique'
-	    };
-	
 		render.data({
 			selector: "[template_id='validate']",
-			data: data
+			data: {
+		        type: 'unique',
+		        status: 'failed',
+		        message: 'One or more values are not unique'
+	    	}
 		});
-	    console.log(data);
-
 	} 
 	else {
 		document.dispatchEvent(new CustomEvent('validate', {
