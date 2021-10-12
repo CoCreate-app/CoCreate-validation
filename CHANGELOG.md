@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.0.0...v1.1.0) (2021-10-12)
+
+
+### Features
+
+* render error message using @cocreate/render ([d520635](https://github.com/CoCreate-app/CoCreate-validation/commit/d5206351d84f9e5f48da2c222ad22c88177ef931))
+
 # 1.0.0 (2021-10-11)
 
 
