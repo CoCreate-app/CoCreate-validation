@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.1.0...v1.1.1) (2021-10-12)
+
+
+### Bug Fixes
+
+* render object ([2c83e75](https://github.com/CoCreate-app/CoCreate-validation/commit/2c83e75dc47c7d40860ef8d20ca8a3c8baeb62a6))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.0.0...v1.1.0) (2021-10-12)
 
 
