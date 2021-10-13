@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.1.2...v1.1.3) (2021-10-13)
+
+
+### Bug Fixes
+
+* update descriptions ([9b70821](https://github.com/CoCreate-app/CoCreate-validation/commit/9b7082155fbec706c764ec8ec98dee00b9eccb9c))
+
 ## [1.1.2](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.1.1...v1.1.2) (2021-10-13)
 
 
