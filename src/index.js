@@ -30,13 +30,6 @@ function  validate(btn) {
 	}
 }
 
-function  removeElement(btn) {
-	let element = btn.closest('[templateid]');
-    if (element)
-        element.remove();
-}
-
-
 action.init({
 	action: "validate",
 	endEvent: "validate",
@@ -45,10 +38,3 @@ action.init({
 	}
 });
 
-action.init({
-	action: "remove",
-	endEvent: "remove",
-	callback: (btn, data) => {
-		removeElement(btn);
-	}
-});
