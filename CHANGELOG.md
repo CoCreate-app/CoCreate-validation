@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.1.3...v1.1.4) (2021-10-14)
+
+
+### Bug Fixes
+
+* relocated removeElement action to render ([e4ea779](https://github.com/CoCreate-app/CoCreate-validation/commit/e4ea779a92cf59ba1eac1ddec3643789e2c3fa8f))
+
 ## [1.1.3](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.1.2...v1.1.3) (2021-10-13)
 
 
