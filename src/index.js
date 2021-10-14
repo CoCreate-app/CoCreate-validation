@@ -10,8 +10,19 @@ import action from '@cocreate/action';
 import render from '@cocreate/render';
 
 function  validate(btn) {
-	let element = btn.closest('form');
-	let validateElements = element.querySelectorAll('[unique="false"]');
+	let validateElements;
+	
+	if (btn.actionParams.size != 0){
+		let selector = btn.actionParams.get('validate');
+		validateElements = document.querySelectorAll(`${selector}[unique="false"]`);
+		if (!validateElements.length){
+			let element = document.querySelector(selector);
+			validateElements = element.querySelectorAll('[unique="false"]');
+		}
+	} else {
+		let element = btn.closest('form');
+		validateElements = element.querySelectorAll('[unique="false"]');
+	}
 	
 	if (validateElements.length){
 		render.data({
