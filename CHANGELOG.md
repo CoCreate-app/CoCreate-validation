@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.1.4...v1.2.0) (2021-10-14)
+
+
+### Bug Fixes
+
+* updated dependencies ([f10f55e](https://github.com/CoCreate-app/CoCreate-validation/commit/f10f55e81d374f7df20d0d88920fd1ed8c4c41ab))
+
+
+### Features
+
+* apply a selector to actions='validate(#name)' and use selector to validate a specific element rather then whole form ([ab9bb28](https://github.com/CoCreate-app/CoCreate-validation/commit/ab9bb28cf3250b416ea019d8001c7dda8e011a19))
+
 ## [1.1.4](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.1.3...v1.1.4) (2021-10-14)
 
 
