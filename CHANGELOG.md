@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.2.3...v1.2.4) (2021-10-16)
+
+
+### Bug Fixes
+
+* update socket package to fix bug in docs ([c655bb1](https://github.com/CoCreate-app/CoCreate-validation/commit/c655bb1555eb74f84918c3be98d6bc77ab660cf1))
+
 ## [1.2.3](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.2.2...v1.2.3) (2021-10-15)
 
 
