@@ -30,7 +30,9 @@ function  validate(btn) {
 			data: {
 		        type: 'unique',
 		        status: 'failed',
-		        message: 'One or more values are not unique'
+		        message: 'One or more values are not unique',
+		        selector: '[unique="false"]',
+		        elements: validateElements
 	    	}
 		});
 	} 
