@@ -8,6 +8,8 @@
 /*globals CustomEvent*/
 import action from '@cocreate/action';
 import render from '@cocreate/render';
+import './validations/equalTo.js';
+import './validations/subdomain.js';
 
 function  validate(btn) {
 	let validateElements;
