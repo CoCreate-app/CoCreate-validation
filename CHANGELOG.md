@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.2.9...v1.3.0) (2021-11-06)
+
+
+### Features
+
+* added validation for equalto and subdomain ([a985abb](https://github.com/CoCreate-app/CoCreate-validation/commit/a985abb2a1f6adb0acc7f3fd8174ad57daf46ad7))
+
 ## [1.2.9](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.2.8...v1.2.9) (2021-11-04)
 
 
