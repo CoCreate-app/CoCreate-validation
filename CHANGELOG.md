@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.3.5...v1.4.0) (2021-11-19)
+
+
+### Features
+
+* support for required inputs ([6c89b25](https://github.com/CoCreate-app/CoCreate-validation/commit/6c89b25eee80cac4ede435a0c69ebfb8f8ffa0a3))
+
 ## [1.3.5](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.3.4...v1.3.5) (2021-11-18)
 
 
