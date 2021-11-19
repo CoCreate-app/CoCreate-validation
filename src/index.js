@@ -7,42 +7,69 @@
 
 /*globals CustomEvent*/
 import action from '@cocreate/action';
-import render from '@cocreate/render';
-import './validations/equalTo.js';
-import './validations/subdomain.js';
+// import render from '@cocreate/render';
+import {matches} from './validations/matches';
+import {required} from './validations/required';
+import {unique} from './validations/unique';
+import {subdomain} from './validations/subdomain';
 
-function  validate(btn) {
+const validations = new Map();
+validations.set('matches', matches);
+validations.set('required', required);
+validations.set('subdomain', subdomain);
+validations.set('unique', unique);
+
+const selectors = '[matches], [required], [unique], [subdomain]';
+
+function validate(btn) {
 	let validateElements;
+	let validateSelectors = [];
+	let failedElements = [];
 	
 	if (btn.actionParams.size != 0){
 		let selector = btn.actionParams.get('validate');
-		validateElements = document.querySelectorAll(`${selector}[unique="false"]`);
+		for (let [validation] of validations){
+			let vSelctor = `${selector}[${validation}]`;
+			validateSelectors.push(vSelctor);
+		}
+		let validSelectors = validateSelectors.join(', ');
+		validateElements = document.querySelectorAll(validSelectors);
 		if (!validateElements.length){
 			let element = document.querySelector(selector);
-			validateElements = element.querySelectorAll('[unique="false"]');
+			if (element)
+				validateElements = element.querySelectorAll(selectors);
 		}
 	} else {
 		let element = btn.closest('form');
-		validateElements = element.querySelectorAll('[unique="false"]');
+		validateElements = element.querySelectorAll(selectors);
 	}
 	
-	if (validateElements.length){
-		render.data({
-			selector: "[template_id='validate']",
-			data: {
-		        type: 'unique',
-		        status: 'failed',
-		        message: 'One or more values are not unique',
-		        selector: '[unique="false"]',
-		        elements: validateElements
-	    	}
-		});
-	} 
-	else {
+	
+	for (let [validation, func] of validations){
+		let elements = [];
+		for (let element of validateElements){
+			// let validationSelectors = element.getAttribute('validate').replace(/ /g, '').split(',');
+			if (element.hasAttribute(validation)){
+				elements.push(element);	
+			}
+		}
+		if (elements.length){
+			let failedEls = func(elements);
+			if (failedEls)
+				failedElements.push(failedEls);
+		}
+	}
+	for (let element of validateElements){
+		let isValid = element.getAttribute('validation');
+		if (isValid == 'false')
+			failedElements.push(element);
+	}
+	
+	if (failedElements.length == 0){
 		document.dispatchEvent(new CustomEvent('validate', {
 			detail: {}
 		}));
-	}
+	} 
 }
 
 action.init({
@@ -53,3 +80,4 @@ action.init({
 	}
 });
 
+export default {validations};
