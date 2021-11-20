@@ -1,3 +1,10 @@
+## [1.4.4](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.3...v1.4.4) (2021-11-20)
+
+
+### Bug Fixes
+
+* remove cdn.CoCreate.min.css ([336035b](https://github.com/CoCreate-app/CoCreate-validation/commit/336035bce9ef41adc29cf794439465c1dbc0458a))
+
 ## [1.4.3](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.2...v1.4.3) (2021-11-20)
 
 
