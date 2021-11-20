@@ -1,3 +1,10 @@
+## [1.4.3](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.2...v1.4.3) (2021-11-20)
+
+
+### Bug Fixes
+
+* updated script tags and link tags ([d2adf65](https://github.com/CoCreate-app/CoCreate-validation/commit/d2adf6588fa6ec6b78f4a8e13d6a3529e1c736ae))
+
 ## [1.4.2](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.1...v1.4.2) (2021-11-20)
 
 
