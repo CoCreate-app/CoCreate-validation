@@ -1,3 +1,11 @@
+## [1.4.7](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.6...v1.4.7) (2021-11-26)
+
+
+### Bug Fixes
+
+* add nav and sidenav to docs ([487aebb](https://github.com/CoCreate-app/CoCreate-validation/commit/487aebbf811dcb89182f4a19b3356c12cb1c18c6))
+* updated action dependency to actions ([3e139c2](https://github.com/CoCreate-app/CoCreate-validation/commit/3e139c24fe6ad21728410ba961f4059821fe2d95))
+
 ## [1.4.6](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.5...v1.4.6) (2021-11-26)
 
 
