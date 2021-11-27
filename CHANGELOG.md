@@ -1,3 +1,11 @@
+## [1.4.10](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.9...v1.4.10) (2021-11-27)
+
+
+### Bug Fixes
+
+* actions import typo ([46d830e](https://github.com/CoCreate-app/CoCreate-validation/commit/46d830e91e1f3ee2245e7c33681414312b1d6a78))
+* update dependencies ([82c1a0f](https://github.com/CoCreate-app/CoCreate-validation/commit/82c1a0f32aa1106a6527f56bb692407faad4324d))
+
 ## [1.4.9](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.8...v1.4.9) (2021-11-27)
 
 
