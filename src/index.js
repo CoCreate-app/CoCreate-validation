@@ -6,7 +6,7 @@
  ********************************************************************************/
 
 /*globals CustomEvent*/
-import action from '@cocreate/action';
+import action from '@cocreate/actions';
 // import render from '@cocreate/render';
 import {matches} from './validations/matches';
 import {required} from './validations/required';
