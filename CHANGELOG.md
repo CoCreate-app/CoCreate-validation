@@ -1,3 +1,10 @@
+## [1.4.8](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.7...v1.4.8) (2021-11-27)
+
+
+### Bug Fixes
+
+* update docs api and cocreateJS script ([c528cec](https://github.com/CoCreate-app/CoCreate-validation/commit/c528cec5e71dba16d0141fd6f1d2d362084eb7e0))
+
 ## [1.4.7](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.6...v1.4.7) (2021-11-26)
 
 
