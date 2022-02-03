@@ -1,3 +1,10 @@
+## [1.4.15](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.14...v1.4.15) (2022-02-03)
+
+
+### Bug Fixes
+
+* replaced show and hide class hidden with attribute hidden ([75bd410](https://github.com/CoCreate-app/CoCreate-validation/commit/75bd410fa47ad7621dd778b262cc32f72fce4e4e))
+
 ## [1.4.14](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.13...v1.4.14) (2022-02-01)
 
 
