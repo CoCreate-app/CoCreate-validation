@@ -1,3 +1,10 @@
+## [1.4.18](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.17...v1.4.18) (2022-02-16)
+
+
+### Bug Fixes
+
+* update action param to name ([d2d8171](https://github.com/CoCreate-app/CoCreate-validation/commit/d2d817121958f076a36c63599405df80e67aa3c5))
+
 ## [1.4.17](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.16...v1.4.17) (2022-02-10)
 
 
