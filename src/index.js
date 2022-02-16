@@ -73,7 +73,7 @@ function validate(btn) {
 }
 
 action.init({
-	action: "validate",
+	name: "validate",
 	endEvent: "validate",
 	callback: (btn, data) => {
 		validate(btn);
