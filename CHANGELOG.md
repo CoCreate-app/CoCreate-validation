@@ -1,3 +1,10 @@
+## [1.4.21](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.20...v1.4.21) (2022-05-06)
+
+
+### Bug Fixes
+
+* update config organization_Id to organization_id ([5be30f1](https://github.com/CoCreate-app/CoCreate-validation/commit/5be30f1f5a94d2631b2eb872b277fda905903de3))
+
 ## [1.4.20](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.19...v1.4.20) (2022-02-24)
 
 
