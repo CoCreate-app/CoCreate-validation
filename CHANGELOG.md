@@ -1,3 +1,11 @@
+## [1.4.22](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.21...v1.4.22) (2022-05-17)
+
+
+### Bug Fixes
+
+* subdomain validation for alpanumeric characters. minimum 2 characters ([e35ad42](https://github.com/CoCreate-app/CoCreate-validation/commit/e35ad42a7c66d61bb39262d18bfb1632cd5750b4))
+* update document_id on link index.css ([727d3ab](https://github.com/CoCreate-app/CoCreate-validation/commit/727d3abe1a9bf8ed0b743001169f152bc78e09fe))
+
 ## [1.4.21](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.20...v1.4.21) (2022-05-06)
 
 
