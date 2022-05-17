@@ -12,19 +12,34 @@ function validateSubdomainEvent(e){
 }
 
 function validateSubdomain(element){
-    let array = element.getValue(element).split('.').length -1;
-    if (array == 2){
-        element.setAttribute('validation', 'true');
+    let subdomain = element.getValue(element);
+    let validation = 'false';
+    
+    let array = subdomain.split('.');
+    if (array.length -1 == 2){
+        validation = 'true';
     }
-    else {
-        element.setAttribute('validation', 'false');
+
+    const pattern = /^[a-z0-9][a-z0-9\-]*[a-z0-9]$/;
+    if (validation && pattern.test(array[0])){
+        validation = 'true';
     }
+    else
+        validation = 'false';
+    // let array = subdomain.split('.').length -1;
+    // if (validation && array == 2){
+    //     validation = 'true';
+    // }
+   
+    element.setAttribute('validation', validation);
+    return validation;
 }
 
 function subdomain(elements){
     let failedElements = [];
     for (let element of elements) {
-        let isValid = element.getAttribute('validation');
+        // let isValid = element.getAttribute('subdomain');
+        let isValid = validateSubdomain(element);
         if (isValid == 'false'){
             failedElements.push(element);
         }
