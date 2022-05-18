@@ -1,3 +1,10 @@
+## [1.4.23](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.22...v1.4.23) (2022-05-18)
+
+
+### Bug Fixes
+
+* typo resulted in more then 1 level subdomain not throwing validating ([e227091](https://github.com/CoCreate-app/CoCreate-validation/commit/e22709163d5110520e8f059977ee854705095318))
+
 ## [1.4.22](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.21...v1.4.22) (2022-05-17)
 
 
