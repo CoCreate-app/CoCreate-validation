@@ -21,7 +21,7 @@ function validateSubdomain(element){
     }
 
     const pattern = /^[a-z0-9][a-z0-9\-]*[a-z0-9]$/;
-    if (validation && pattern.test(array[0])){
+    if (validation != 'false' && pattern.test(array[0])){
         validation = 'true';
     }
     else
