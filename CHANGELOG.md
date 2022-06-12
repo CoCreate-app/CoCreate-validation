@@ -1,3 +1,11 @@
+## [1.4.25](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.24...v1.4.25) (2022-06-12)
+
+
+### Bug Fixes
+
+* update dependencies ([56b58c5](https://github.com/CoCreate-app/CoCreate-validation/commit/56b58c56f834c6d842ba43109be244cdd774e971))
+* update docs css document_id ([ad38dab](https://github.com/CoCreate-app/CoCreate-validation/commit/ad38dabd8078d7742aa1ddc07e22a06e54925e83))
+
 ## [1.4.24](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.23...v1.4.24) (2022-05-23)
 
 
