@@ -1,3 +1,10 @@
+## [1.4.27](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.26...v1.4.27) (2022-08-31)
+
+
+### Bug Fixes
+
+* getValue and setValue using HTMLElement.prototype ([58d4af4](https://github.com/CoCreate-app/CoCreate-validation/commit/58d4af476e01a5ba68e312c567aa8c9df4bffcb7))
+
 ## [1.4.26](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.25...v1.4.26) (2022-06-18)
 
 
