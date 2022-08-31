@@ -12,7 +12,7 @@ function validateSubdomainEvent(e){
 }
 
 function validateSubdomain(element){
-    let subdomain = element.getValue(element);
+    let subdomain = element.getValue();
     let validation = 'false';
     
     let array = subdomain.split('.');

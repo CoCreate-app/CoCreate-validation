@@ -5,7 +5,7 @@ import render from '@cocreate/render';
 export var required = (elements) => {
     let failedElements = [];
     for (let element of elements){
-        let value = element.getValue(element);
+        let value = element.getValue();
         if (value){
             element.setAttribute('validation', 'true');
         }
