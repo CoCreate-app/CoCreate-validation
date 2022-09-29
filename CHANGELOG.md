@@ -1,3 +1,10 @@
+## [1.4.29](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.28...v1.4.29) (2022-09-29)
+
+
+### Bug Fixes
+
+* config renameed to CoCreateConfig ([a0416eb](https://github.com/CoCreate-app/CoCreate-validation/commit/a0416eb1b438715f976db1393e33dc6193db805b))
+
 ## [1.4.28](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.27...v1.4.28) (2022-09-01)
 
 
