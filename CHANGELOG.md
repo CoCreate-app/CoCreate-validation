@@ -1,3 +1,10 @@
+## [1.4.36](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.35...v1.4.36) (2022-10-02)
+
+
+### Bug Fixes
+
+* bump @cocreate/hosting and @cocreate/socket-client ([652587e](https://github.com/CoCreate-app/CoCreate-validation/commit/652587e7bd71dae884b0bf0636a2ff13ca0fcc14))
+
 ## [1.4.35](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.34...v1.4.35) (2022-10-01)
 
 
