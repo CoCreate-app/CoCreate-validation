@@ -1,3 +1,10 @@
+## [1.4.37](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.36...v1.4.37) (2022-10-02)
+
+
+### Bug Fixes
+
+* minor bug fixes ([c1732a6](https://github.com/CoCreate-app/CoCreate-validation/commit/c1732a623b41ed2921cbbacdfc7964dbf192af28))
+
 ## [1.4.36](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.35...v1.4.36) (2022-10-02)
 
 
