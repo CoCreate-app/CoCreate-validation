@@ -1,3 +1,10 @@
+## [1.4.40](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.39...v1.4.40) (2022-11-21)
+
+
+### Bug Fixes
+
+* replaced document_id with document._id ([bfa7081](https://github.com/CoCreate-app/CoCreate-validation/commit/bfa7081cebb6ff773db822dbdc41ca2912f47ef9))
+
 ## [1.4.39](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.38...v1.4.39) (2022-11-21)
 
 
