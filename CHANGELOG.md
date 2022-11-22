@@ -1,3 +1,10 @@
+## [1.4.42](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.41...v1.4.42) (2022-11-22)
+
+
+### Bug Fixes
+
+* apply src: {{source}} to CoCreate.config ([7f767b0](https://github.com/CoCreate-app/CoCreate-validation/commit/7f767b00280a4b1c48b59919f57385b4f0f2e6da))
+
 ## [1.4.41](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.40...v1.4.41) (2022-11-21)
 
 
