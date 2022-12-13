@@ -1,3 +1,10 @@
+## [1.4.60](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.59...v1.4.60) (2022-12-13)
+
+
+### Bug Fixes
+
+* removed un used devDependencies ([7f03202](https://github.com/CoCreate-app/CoCreate-validation/commit/7f0320249ff70e009aca2985aa02c625aee0fa46))
+
 ## [1.4.59](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.58...v1.4.59) (2022-12-13)
 
 
