@@ -1,3 +1,10 @@
+## [1.4.61](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.60...v1.4.61) (2022-12-15)
+
+
+### Bug Fixes
+
+* add missing dev dependency style-loader ([f612e8d](https://github.com/CoCreate-app/CoCreate-validation/commit/f612e8d6d1d7270efc99803d969f698b2b63d251))
+
 ## [1.4.60](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.59...v1.4.60) (2022-12-13)
 
 
