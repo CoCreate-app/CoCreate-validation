@@ -1,3 +1,10 @@
+## [1.4.70](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.69...v1.4.70) (2022-12-30)
+
+
+### Bug Fixes
+
+* update config sources to use template  braces with entry on src ([a73e014](https://github.com/CoCreate-app/CoCreate-validation/commit/a73e014087d6b37f560088179b82deb9c79f3fd6))
+
 ## [1.4.69](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.68...v1.4.69) (2022-12-29)
 
 
