@@ -1,3 +1,10 @@
+## [1.4.72](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.71...v1.4.72) (2023-01-01)
+
+
+### Bug Fixes
+
+* docs sanbox overflow ([e198c6c](https://github.com/CoCreate-app/CoCreate-validation/commit/e198c6c6e317640658b58bb836755f945fb02a68))
+
 ## [1.4.71](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.70...v1.4.71) (2022-12-31)
 
 
