@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.72...v1.5.0) (2023-01-02)
+
+
+### Features
+
+* class="template" template_id="id" replaced with template="id" ([8d9e32e](https://github.com/CoCreate-app/CoCreate-validation/commit/8d9e32ec77484e7865f9cf11d9a72594b33079cd))
+
 ## [1.4.72](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.4.71...v1.4.72) (2023-01-01)
 
 
