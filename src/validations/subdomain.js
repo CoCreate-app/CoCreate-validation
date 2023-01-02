@@ -46,7 +46,7 @@ function subdomain(elements){
     }
     if (failedElements.length){
 		render.data({
-			selector: "[template_id='validate']",
+			selector: "[template='validate']",
 			data: {
 		        type: 'subdomain',
 		        status: 'failed',

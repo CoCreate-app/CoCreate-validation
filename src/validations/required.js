@@ -16,7 +16,7 @@ export var required = (elements) => {
     }
     if (failedElements.length){
 		render.data({
-			selector: "[template_id='validate']",
+			selector: "[template='validate']",
 			data: {
 		        type: 'unique',
 		        status: 'failed',
