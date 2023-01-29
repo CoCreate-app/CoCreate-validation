@@ -59,8 +59,8 @@
   },
   "dependencies": {
     "@cocreate/actions": "^1.5.55",
-    "@cocreate/docs": "^1.5.9",
-    "@cocreate/hosting": "^1.7.9",
-    "@cocreate/render": "^1.21.2"
+    "@cocreate/docs": "^1.5.10",
+    "@cocreate/hosting": "^1.7.10",
+    "@cocreate/render": "^1.21.3"
   }
 }
