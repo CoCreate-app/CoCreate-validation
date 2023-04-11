@@ -1,3 +1,10 @@
+## [1.6.4](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.6.3...v1.6.4) (2023-04-11)
+
+
+### Bug Fixes
+
+* renamed domains to hosts ([08ee1c9](https://github.com/CoCreate-app/CoCreate-validation/commit/08ee1c97a903e405a4cae8825caa62c3f68fd650))
+
 ## [1.6.3](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.6.2...v1.6.3) (2023-03-30)
 
 
