@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.6.6...v1.7.0) (2023-04-13)
+
+
+### Features
+
+* params now handeld and returned by action ([68f611b](https://github.com/CoCreate-app/CoCreate-validation/commit/68f611b11ef8df52141f36fd5abe9b985df32892))
+
 ## [1.6.6](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.6.5...v1.6.6) (2023-04-11)
 
 
