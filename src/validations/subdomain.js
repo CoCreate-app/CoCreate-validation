@@ -14,7 +14,8 @@ function validateSubdomainEvent(e){
 function validateSubdomain(element){
     let subdomain = element.getValue();
     let validation = 'false';
-    
+    if (Array.isArray(subdomain))
+        subdomain = subdomain[0]
     let array = subdomain.split('.');
     if (array.length -1 == 2){
         validation = 'true';

@@ -21,13 +21,13 @@ validations.set('unique', unique);
 
 const selectors = '[matches], [required], [unique], [subdomain]';
 
-function validate(btn) {
+function validate(btn, params) {
 	let validateElements;
 	let validateSelectors = [];
 	let failedElements = [];
 	
-	if (btn.actionParams.size != 0){
-		let selector = btn.actionParams.get('validate');
+	if (params){
+		let selector = params
 		for (let [validation] of validations){
 			let vSelctor = `${selector}[${validation}]`;
 			validateSelectors.push(vSelctor);
@@ -74,9 +74,8 @@ function validate(btn) {
 
 action.init({
 	name: "validate",
-	endEvent: "validate",
-	callback: (btn, data) => {
-		validate(btn);
+	callback: (btn, params) => {
+		validate(btn, params);
 	}
 });
 
