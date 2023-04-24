@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.7.0...v1.8.0) (2023-04-24)
+
+
+### Features
+
+* added pwa manifest ([c8b9f19](https://github.com/CoCreate-app/CoCreate-validation/commit/c8b9f19e3295f0823b582ced0c3430a543e6e175))
+
 # [1.7.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.6.6...v1.7.0) (2023-04-13)
 
 
