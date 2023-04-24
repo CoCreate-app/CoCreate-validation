@@ -1,3 +1,11 @@
+## [1.8.3](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.2...v1.8.3) (2023-04-24)
+
+
+### Bug Fixes
+
+* updated worrkflows to v3 and node version 16 ([8e26065](https://github.com/CoCreate-app/CoCreate-validation/commit/8e2606559547993e6e8d4d3cdb3d58edcd953c4b))
+* workflow node version updated  16 ([ceb5994](https://github.com/CoCreate-app/CoCreate-validation/commit/ceb599471f9a414d445544fb76f21d297e4873d1))
+
 ## [1.8.2](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.1...v1.8.2) (2023-04-24)
 
 
