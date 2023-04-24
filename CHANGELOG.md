@@ -1,3 +1,10 @@
+## [1.8.1](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.0...v1.8.1) (2023-04-24)
+
+
+### Bug Fixes
+
+* removed uglifyjs-webpack-plugin ([2e04fe8](https://github.com/CoCreate-app/CoCreate-validation/commit/2e04fe8028be85f86ffd5c579935e5a0f1024334))
+
 # [1.8.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.7.0...v1.8.0) (2023-04-24)
 
 
