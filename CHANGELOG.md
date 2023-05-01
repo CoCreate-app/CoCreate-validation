@@ -1,3 +1,10 @@
+## [1.8.6](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.5...v1.8.6) (2023-05-01)
+
+
+### Bug Fixes
+
+* update manifest.json to manifest.webmanifest ([053e079](https://github.com/CoCreate-app/CoCreate-validation/commit/053e079086be6597bab29f121fbaad26dfd00285))
+
 ## [1.8.5](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.4...v1.8.5) (2023-05-01)
 
 
