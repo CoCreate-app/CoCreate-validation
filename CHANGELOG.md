@@ -1,3 +1,10 @@
+## [1.8.5](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.4...v1.8.5) (2023-05-01)
+
+
+### Bug Fixes
+
+* replace fontawesome with svg ([88e169d](https://github.com/CoCreate-app/CoCreate-validation/commit/88e169d156e5ff6b6c08999b52d7cb204914977f))
+
 ## [1.8.4](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.3...v1.8.4) (2023-04-30)
 
 
