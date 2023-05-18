@@ -1,3 +1,10 @@
+## [1.8.8](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.7...v1.8.8) (2023-05-18)
+
+
+### Bug Fixes
+
+* apikey renamed to key ([61bffcf](https://github.com/CoCreate-app/CoCreate-validation/commit/61bffcf69c977afcb12126bb5f741958cec2f06f))
+
 ## [1.8.7](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.6...v1.8.7) (2023-05-06)
 
 
