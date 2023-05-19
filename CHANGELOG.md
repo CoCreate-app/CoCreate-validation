@@ -1,3 +1,10 @@
+## [1.8.9](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.8...v1.8.9) (2023-05-19)
+
+
+### Bug Fixes
+
+* update packages to latest version. This commit updates various packages in the dependencies section of the package.json file to their latest published versions, thereby fixing multiple bugs and improving overall performance. ([85d5ca7](https://github.com/CoCreate-app/CoCreate-validation/commit/85d5ca73a6241ac41da52ca305f999b5f939dbc1))
+
 ## [1.8.8](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.7...v1.8.8) (2023-05-18)
 
 
