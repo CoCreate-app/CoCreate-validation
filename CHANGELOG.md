@@ -1,3 +1,10 @@
+## [1.8.11](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.10...v1.8.11) (2023-06-02)
+
+
+### Bug Fixes
+
+* format demo html ([7bed50f](https://github.com/CoCreate-app/CoCreate-validation/commit/7bed50f4be6631de5626fc4cb426287c815b0b83))
+
 ## [1.8.10](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.9...v1.8.10) (2023-05-21)
 
 
