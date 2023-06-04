@@ -1,3 +1,11 @@
+## [1.8.13](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.12...v1.8.13) (2023-06-04)
+
+
+### Bug Fixes
+
+* replaced secert GITHUB_TOKEN with GITHUB ([38be9b2](https://github.com/CoCreate-app/CoCreate-validation/commit/38be9b21af367eabe7ed467b1d7fcdff0dfc534a))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([c6f0350](https://github.com/CoCreate-app/CoCreate-validation/commit/c6f035057a8452b265518fa4b588dc009298b78e))
+
 ## [1.8.12](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.11...v1.8.12) (2023-06-04)
 
 
