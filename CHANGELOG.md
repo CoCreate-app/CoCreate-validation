@@ -1,3 +1,10 @@
+## [1.8.12](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.11...v1.8.12) (2023-06-04)
+
+
+### Bug Fixes
+
+* **semantic-release:** worklow error solved by running node version 14 ([78c007e](https://github.com/CoCreate-app/CoCreate-validation/commit/78c007ecb839d1bd5fe72b8e8a81eb7a8899d86b))
+
 ## [1.8.11](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.10...v1.8.11) (2023-06-02)
 
 
