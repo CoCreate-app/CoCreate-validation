@@ -1,3 +1,10 @@
+## [1.8.14](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.13...v1.8.14) (2023-06-04)
+
+
+### Bug Fixes
+
+* Refactor CoCreate.config.js to remove hard-coded credentials ([253c7ac](https://github.com/CoCreate-app/CoCreate-validation/commit/253c7ac5290a3bca94e6d00208717a91d1320115))
+
 ## [1.8.13](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.12...v1.8.13) (2023-06-04)
 
 
