@@ -1,3 +1,11 @@
+## [1.8.23](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.22...v1.8.23) (2023-06-11)
+
+
+### Bug Fixes
+
+* testing workflow ([b17f5a2](https://github.com/CoCreate-app/CoCreate-validation/commit/b17f5a2b7ef784a1802b196bb013fd277359e292))
+* testing workflow ([8ac68b4](https://github.com/CoCreate-app/CoCreate-validation/commit/8ac68b485374be95b8c3818d938dfe59306ac2a4))
+
 ## [1.8.22](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.21...v1.8.22) (2023-06-11)
 
 
