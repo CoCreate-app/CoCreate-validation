@@ -1,3 +1,10 @@
+## [1.8.27](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.26...v1.8.27) (2023-06-11)
+
+
+### Bug Fixes
+
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([5e19e22](https://github.com/CoCreate-app/CoCreate-validation/commit/5e19e22f06e8fb0f6a588f7915617df8ba87e0e1))
+
 ## [1.8.26](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.25...v1.8.26) (2023-06-11)
 
 
