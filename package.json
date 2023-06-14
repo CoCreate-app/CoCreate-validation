@@ -58,7 +58,7 @@
     "webpack-log": "^3.0.1"
   },
   "dependencies": {
-    "@cocreate/actions": "^1.8.31",
-    "@cocreate/render": "^1.24.31"
+    "@cocreate/actions": "^1.8.32",
+    "@cocreate/render": "^1.24.32"
   }
 }
