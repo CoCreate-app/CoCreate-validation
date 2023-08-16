@@ -1,3 +1,18 @@
+# [1.9.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.28...v1.9.0) (2023-08-16)
+
+
+### Bug Fixes
+
+* crud attributes renamed ([3ced06c](https://github.com/CoCreate-app/CoCreate-validation/commit/3ced06c6ef6d05e26b23d9ca78fe745084a84ff8))
+* replace -target -selector ([714a422](https://github.com/CoCreate-app/CoCreate-validation/commit/714a4229010cad92a22b38f9c64ce88d5b95f6b3))
+* updated actions callback data object ([9265e4a](https://github.com/CoCreate-app/CoCreate-validation/commit/9265e4a43754527ef4b2d11afba07a5666a47416))
+* webpack.config and package.json make use of mode=production instead of process.env ([0719445](https://github.com/CoCreate-app/CoCreate-validation/commit/0719445271a69caa944277e9f5b919c39324a3ce))
+
+
+### Features
+
+* name attribute and variable renamed to key ([19d06f7](https://github.com/CoCreate-app/CoCreate-validation/commit/19d06f78b0155581faed1ae76a929047a1541818))
+
 ## [1.8.28](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.8.27...v1.8.28) (2023-06-14)
 
 
