@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.10.1...v1.11.0) (2023-08-21)
+
+
+### Features
+
+* Update cocreate dependencies for the latest features and bug fixes ([80a8e3b](https://github.com/CoCreate-app/CoCreate-validation/commit/80a8e3b9d0bc58e34feb97c7870a40350df5c512))
+
 ## [1.10.1](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.10.0...v1.10.1) (2023-08-21)
 
 
