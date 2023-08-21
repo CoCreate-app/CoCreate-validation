@@ -1,3 +1,12 @@
+## [1.10.1](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.10.0...v1.10.1) (2023-08-21)
+
+
+### Bug Fixes
+
+* /dist/CoCreate.js updated to https://CoCreate.app/dist/CoCreate.js ([73b3983](https://github.com/CoCreate-app/CoCreate-validation/commit/73b3983fd909f70e644979a98a5eae765c814e18))
+* replace cdn with /dist ([0bf7090](https://github.com/CoCreate-app/CoCreate-validation/commit/0bf7090ed0a86c5461dbb2163b67cc15dc9687a4))
+* update file uploader ([3290d80](https://github.com/CoCreate-app/CoCreate-validation/commit/3290d80700f836bbf0e5f1c861969189f9f8cc51))
+
 # [1.10.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.9.0...v1.10.0) (2023-08-17)
 
 
