@@ -1,3 +1,11 @@
+## [1.11.2](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.11.1...v1.11.2) (2023-09-18)
+
+
+### Bug Fixes
+
+*  Add path and pathname ([b5e48f7](https://github.com/CoCreate-app/CoCreate-validation/commit/b5e48f778972fea2cf21dde117889ca61af3a615))
+* Update CoCreate depndencies to latest versions ([b910917](https://github.com/CoCreate-app/CoCreate-validation/commit/b910917582e68a8c36f7a5fed5d1834692a8c8e0))
+
 ## [1.11.1](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.11.0...v1.11.1) (2023-08-21)
 
 
