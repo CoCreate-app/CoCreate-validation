@@ -21,7 +21,7 @@ validations.set('unique', unique);
 
 const selectors = '[matches], [required], [unique], [subdomain]';
 
-function validate(btn, params) {
+async function validate(btn, params) {
     let validateElements;
     let validateSelectors = [];
     let failedElements = [];
@@ -54,7 +54,7 @@ function validate(btn, params) {
             }
         }
         if (elements.length) {
-            let failedEls = func(elements);
+            let failedEls = await func(elements);
             if (failedEls)
                 failedElements.push(failedEls);
         }
