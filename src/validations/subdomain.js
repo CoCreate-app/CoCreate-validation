@@ -1,4 +1,4 @@
-import render from '@cocreate/render';
+import { render } from '@cocreate/render';
 
 function initSubdomain() {
     let elements = document.querySelectorAll('[subdomain]');
@@ -46,7 +46,7 @@ function subdomain(elements) {
         }
     }
     if (failedElements.length) {
-        render.data({
+        render({
             selector: "[template='validate']",
             data: {
                 type: 'subdomain',

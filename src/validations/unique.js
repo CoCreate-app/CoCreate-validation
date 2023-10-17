@@ -1,4 +1,4 @@
-import render from '@cocreate/render';
+import { render } from '@cocreate/render';
 
 export const unique = (elements) => {
     let failedElements = [];
@@ -9,7 +9,7 @@ export const unique = (elements) => {
         }
     }
     if (failedElements.length) {
-        render.data({
+        render({
             selector: "[template='validate']",
             data: {
                 type: 'unique',
