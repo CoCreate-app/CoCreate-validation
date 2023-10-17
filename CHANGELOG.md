@@ -1,3 +1,10 @@
+## [1.11.6](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.11.5...v1.11.6) (2023-10-17)
+
+
+### Bug Fixes
+
+* await getValue() ([71acb5f](https://github.com/CoCreate-app/CoCreate-validation/commit/71acb5fceb4c5157bdfa56540324979ed286f671))
+
 ## [1.11.5](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.11.4...v1.11.5) (2023-10-14)
 
 
