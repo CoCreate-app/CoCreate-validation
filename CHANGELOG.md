@@ -1,3 +1,10 @@
+## [1.11.7](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.11.6...v1.11.7) (2023-10-19)
+
+
+### Bug Fixes
+
+* declartion of render functions using object spread ([b51b172](https://github.com/CoCreate-app/CoCreate-validation/commit/b51b17283c46c6c777d70f4f1ad853cec9100caf))
+
 ## [1.11.6](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.11.5...v1.11.6) (2023-10-17)
 
 
