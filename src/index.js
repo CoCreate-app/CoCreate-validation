@@ -6,7 +6,7 @@
  ********************************************************************************/
 
 /*globals CustomEvent*/
-import action from '@cocreate/actions';
+import actions from '@cocreate/actions';
 // import render from '@cocreate/render';
 import { matches } from './validations/matches';
 import { required } from './validations/required';
@@ -72,10 +72,10 @@ async function validate(btn, params) {
     }
 }
 
-action.init({
+actions.init({
     name: "validate",
-    callback: (data) => {
-        validate(data.element, data.params);
+    callback: (action) => {
+        validate(action.element, action.params);
     }
 });
 
