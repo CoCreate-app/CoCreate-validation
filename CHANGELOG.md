@@ -1,3 +1,10 @@
+## [1.11.8](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.11.7...v1.11.8) (2023-10-20)
+
+
+### Bug Fixes
+
+* actions ([6a8b1fa](https://github.com/CoCreate-app/CoCreate-validation/commit/6a8b1fab566c6be04fc3b87625658ff5510d14ce))
+
 ## [1.11.7](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.11.6...v1.11.7) (2023-10-19)
 
 
