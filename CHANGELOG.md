@@ -1,3 +1,10 @@
+## [1.11.9](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.11.8...v1.11.9) (2023-10-25)
+
+
+### Bug Fixes
+
+* bump dependencies ([f36ebb6](https://github.com/CoCreate-app/CoCreate-validation/commit/f36ebb678ddb4b797d3ac06227bf44c4fd4ead00))
+
 ## [1.11.8](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.11.7...v1.11.8) (2023-10-20)
 
 
