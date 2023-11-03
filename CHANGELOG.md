@@ -1,3 +1,11 @@
+## [1.11.10](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.11.9...v1.11.10) (2023-11-03)
+
+
+### Bug Fixes
+
+* favicon.ico path ([7daa7a3](https://github.com/CoCreate-app/CoCreate-validation/commit/7daa7a3b529d6374c71bf0f05092d4042a37f19e))
+* update dependencies to the lates versions ([9a753d2](https://github.com/CoCreate-app/CoCreate-validation/commit/9a753d22fba16834f56236230d3e4616f48ba27c))
+
 ## [1.11.9](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.11.8...v1.11.9) (2023-10-25)
 
 
