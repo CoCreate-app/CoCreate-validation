@@ -1,3 +1,11 @@
+## [1.11.11](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.11.10...v1.11.11) (2023-11-09)
+
+
+### Bug Fixes
+
+* meta name typo ([88122dd](https://github.com/CoCreate-app/CoCreate-validation/commit/88122ddb75eba037f62736b3a07873b931ce379a))
+* update host ([b9e0a38](https://github.com/CoCreate-app/CoCreate-validation/commit/b9e0a38879a2e1ef38aa719fac947448d4474faa))
+
 ## [1.11.10](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.11.9...v1.11.10) (2023-11-03)
 
 
