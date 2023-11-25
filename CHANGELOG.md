@@ -1,3 +1,15 @@
+# [1.13.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.12.0...v1.13.0) (2023-11-25)
+
+
+### Bug Fixes
+
+* update nav, edit button and css path ([9257658](https://github.com/CoCreate-app/CoCreate-validation/commit/9257658475fc6bb17d7d7479a181ae4e4d21ec8c))
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([8003105](https://github.com/CoCreate-app/CoCreate-validation/commit/800310539428286a74151462f994ef77cd90d315))
+
 # [1.12.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.11.12...v1.12.0) (2023-11-19)
 
 
