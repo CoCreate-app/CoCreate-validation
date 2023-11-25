@@ -1,3 +1,15 @@
+# [1.14.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.13.0...v1.14.0) (2023-11-25)
+
+
+### Bug Fixes
+
+* update licensing details ([a3a1ce6](https://github.com/CoCreate-app/CoCreate-validation/commit/a3a1ce64fcf00027bd6d9ae77e7aa0fdf8eb0f6e))
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([aef4f3a](https://github.com/CoCreate-app/CoCreate-validation/commit/aef4f3a53db5868adf335b1c35555a10ebbc5141))
+
 # [1.13.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.12.0...v1.13.0) (2023-11-25)
 
 
