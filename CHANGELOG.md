@@ -1,3 +1,10 @@
+## [1.14.1](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.14.0...v1.14.1) (2023-12-15)
+
+
+### Bug Fixes
+
+* render handling ([d538633](https://github.com/CoCreate-app/CoCreate-validation/commit/d538633867b7b8ab4d7b8d07b4a0ba866908afa0))
+
 # [1.14.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.13.0...v1.14.0) (2023-11-25)
 
 
