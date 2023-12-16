@@ -17,13 +17,13 @@ export var required = async (elements) => {
     if (failedElements.length) {
         render.render({
             selector: "[template='validate']",
-            data: {
+            data: [{
                 type: 'unique',
                 status: 'failed',
                 message: 'One or more required fields are missing values',
                 selector: '[required][validation="false"]',
                 elements: failedElements
-            }
+            }]
         });
         return failedElements;
     }

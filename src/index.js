@@ -12,14 +12,18 @@ import { matches } from './validations/matches';
 import { required } from './validations/required';
 import { unique } from './validations/unique';
 import { subdomain } from './validations/subdomain';
+import { length } from './validations/length';
+import { email } from './validations/email';
 
 const validations = new Map();
 validations.set('matches', matches);
 validations.set('required', required);
 validations.set('subdomain', subdomain);
 validations.set('unique', unique);
+validations.set('length', length);
+validations.set('email', email);
 
-const selectors = '[matches], [required], [unique], [subdomain]';
+const selectors = '[matches], [required], [unique], [subdomain], [length], [email]';
 
 async function validate(btn, params) {
     let validateElements;

@@ -11,13 +11,13 @@ export const unique = (elements) => {
     if (failedElements.length) {
         render({
             selector: "[template='validate']",
-            data: {
+            data: [{
                 type: 'unique',
                 status: 'failed',
                 message: 'One or more values are not unique',
                 selector: '[unique="false"]',
                 elements: failedElements
-            }
+            }]
         });
         return failedElements;
     }

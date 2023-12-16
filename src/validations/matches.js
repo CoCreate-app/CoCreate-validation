@@ -38,13 +38,13 @@ function matches(elements) {
     if (failedElements.length) {
         render({
             selector: "[template='validate']",
-            data: {
+            data: [{
                 type: 'matches',
                 status: 'failed',
                 message: 'One or more values do not match',
                 selector: '[matches][validation="false"]',
                 elements: failedElements
-            }
+            }]
         });
         return failedElements;
     }

@@ -48,13 +48,13 @@ function subdomain(elements) {
     if (failedElements.length) {
         render({
             selector: "[template='validate']",
-            data: {
+            data: [{
                 type: 'subdomain',
                 status: 'failed',
                 message: 'Enter a valid subdomain. subdomain can only be one level.',
                 selector: '[subdomain][validation="false"]',
                 elements: failedElements
-            }
+            }]
         });
         return failedElements;
     }
