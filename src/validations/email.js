@@ -1,4 +1,4 @@
-import render from '@cocreate/render';
+import { render } from '@cocreate/render';
 
 export var email = async (elements) => {
     let failedElements = [];
@@ -16,7 +16,7 @@ export var email = async (elements) => {
         }
     }
     if (failedElements.length) {
-        render.render({
+        render({
             selector: "[template='validate']",
             data: [{
                 type: 'email',

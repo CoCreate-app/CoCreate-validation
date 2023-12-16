@@ -1,5 +1,5 @@
 // import {validations} from '../index.js';
-import render from '@cocreate/render';
+import { render } from '@cocreate/render';
 
 
 export var required = async (elements) => {
@@ -15,7 +15,7 @@ export var required = async (elements) => {
         }
     }
     if (failedElements.length) {
-        render.render({
+        render({
             selector: "[template='validate']",
             data: [{
                 type: 'unique',
