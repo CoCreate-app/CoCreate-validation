@@ -1,3 +1,17 @@
+# [1.15.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.14.1...v1.15.0) (2023-12-18)
+
+
+### Bug Fixes
+
+* initialize length and email validations ([7cace75](https://github.com/CoCreate-app/CoCreate-validation/commit/7cace75c62a054ce23a7f8f03dc68736387ef2bb))
+* render property ([93e3040](https://github.com/CoCreate-app/CoCreate-validation/commit/93e3040d12407ea95693f2fbd6544dd6bf70b4fb))
+
+
+### Features
+
+* email validation ([c950a32](https://github.com/CoCreate-app/CoCreate-validation/commit/c950a3215536eef27f1110d3fe10466c8d9c346e))
+* length validation ([591b2b8](https://github.com/CoCreate-app/CoCreate-validation/commit/591b2b811d597a909c6d0eb0020ca6857224d66d))
+
 ## [1.14.1](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.14.0...v1.14.1) (2023-12-15)
 
 
