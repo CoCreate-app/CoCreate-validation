@@ -17,7 +17,7 @@ export var email = async (elements) => {
     }
     if (failedElements.length) {
         render({
-            selector: "[template='validate']",
+            selector: "[template*='validate']",
             data: [{
                 type: 'email',
                 status: 'failed',

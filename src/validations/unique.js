@@ -10,7 +10,7 @@ export const unique = (elements) => {
     }
     if (failedElements.length) {
         render({
-            selector: "[template='validate']",
+            selector: "[template*='validate']",
             data: [{
                 type: 'unique',
                 status: 'failed',

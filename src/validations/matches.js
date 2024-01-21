@@ -37,7 +37,7 @@ function matches(elements) {
     }
     if (failedElements.length) {
         render({
-            selector: "[template='validate']",
+            selector: "[template*='validate']",
             data: [{
                 type: 'matches',
                 status: 'failed',

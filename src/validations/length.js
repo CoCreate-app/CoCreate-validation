@@ -17,7 +17,7 @@ export var length = async (elements) => {
     }
     if (failedElements.length) {
         render({
-            selector: "[template='validate']",
+            selector: "[template*='validate']",
             data: [{
                 type: 'length',
                 status: 'failed',
