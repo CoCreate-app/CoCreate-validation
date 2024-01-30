@@ -1,3 +1,10 @@
+## [1.15.1](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.15.0...v1.15.1) (2024-01-30)
+
+
+### Bug Fixes
+
+* template selector ([b135e76](https://github.com/CoCreate-app/CoCreate-validation/commit/b135e76a4e123ae86fc304a8807152ee938baffe))
+
 # [1.15.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.14.1...v1.15.0) (2023-12-18)
 
 
