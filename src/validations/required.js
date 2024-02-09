@@ -6,10 +6,9 @@ export var required = async (elements) => {
     let failedElements = [];
     for (let element of elements) {
         let value = await element.getValue();
-        if (value) {
+        if (value || value === 0 || value === false) {
             element.setAttribute('validation', 'true');
-        }
-        else {
+        } else {
             element.setAttribute('validation', 'false');
             failedElements.push(element);
         }
