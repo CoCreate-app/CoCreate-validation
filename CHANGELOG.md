@@ -1,3 +1,10 @@
+## [1.15.2](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.15.1...v1.15.2) (2024-02-13)
+
+
+### Bug Fixes
+
+* required value returns true if value 0 or fasle ([84646ad](https://github.com/CoCreate-app/CoCreate-validation/commit/84646ad071f0c262882870f6dcde38886dba6ae5))
+
 ## [1.15.1](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.15.0...v1.15.1) (2024-01-30)
 
 
