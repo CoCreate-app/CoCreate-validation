@@ -1,10 +1,12 @@
 import { render } from '@cocreate/render';
 
-export const unique = (elements) => {
+export const unique = async (elements) => {
     let failedElements = [];
     for (let element of elements) {
         let unique = element.getAttribute('unique');
-        if (unique == 'false') {
+        if (unique === '')
+            unique = await CoCreate.unique.isUnique(element)
+        if (unique === 'false' || unique === false) {
             failedElements.push(element);
         }
     }
