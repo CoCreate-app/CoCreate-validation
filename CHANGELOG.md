@@ -1,3 +1,10 @@
+## [1.15.3](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.15.2...v1.15.3) (2024-02-17)
+
+
+### Bug Fixes
+
+* if attribute empty string request isUnique ([067ecce](https://github.com/CoCreate-app/CoCreate-validation/commit/067ecce1313d1cbc8f41d5e1aebde73e822db12c))
+
 ## [1.15.2](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.15.1...v1.15.2) (2024-02-13)
 
 
