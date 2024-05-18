@@ -6,7 +6,7 @@ export var required = async (elements) => {
     let failedElements = [];
     for (let element of elements) {
         let value = await element.getValue();
-        if (value || value === 0 || value === false) {
+        if (value || value === 0 || (value === false && element.type !== 'checkbox')) {
             element.setAttribute('validation', 'true');
         } else {
             element.setAttribute('validation', 'false');
