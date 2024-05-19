@@ -1,3 +1,10 @@
+## [1.15.5](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.15.4...v1.15.5) (2024-05-19)
+
+
+### Bug Fixes
+
+* handling required validation of checkbox ([1a1b741](https://github.com/CoCreate-app/CoCreate-validation/commit/1a1b741645b7ec72371aef0d18e150e818dddb55))
+
 ## [1.15.4](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.15.3...v1.15.4) (2024-04-29)
 
 
