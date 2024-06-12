@@ -1,3 +1,11 @@
+## [1.15.6](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.15.5...v1.15.6) (2024-06-12)
+
+
+### Bug Fixes
+
+* bump cocreate dependencies ([e07e357](https://github.com/CoCreate-app/CoCreate-validation/commit/e07e357a44accc1cd17343232f03b6fa8ae253dc))
+* svg icon class ([c2ecdb1](https://github.com/CoCreate-app/CoCreate-validation/commit/c2ecdb1debbd3c29504a326af55374b3e6521a05))
+
 ## [1.15.5](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.15.4...v1.15.5) (2024-05-19)
 
 
