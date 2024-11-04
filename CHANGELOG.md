@@ -1,3 +1,15 @@
+# [1.16.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.15.6...v1.16.0) (2024-11-04)
+
+
+### Bug Fixes
+
+* pretier.config.js and file formating ([4638484](https://github.com/CoCreate-app/CoCreate-validation/commit/463848483a70362248f3ed63195c6a81f78e205a))
+
+
+### Features
+
+* add prettier.config.js and format files ([421caf7](https://github.com/CoCreate-app/CoCreate-validation/commit/421caf7b0b58af8efe9f764e49601096e6ce8a1d))
+
 ## [1.15.6](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.15.5...v1.15.6) (2024-06-12)
 
 
