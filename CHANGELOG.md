@@ -1,3 +1,10 @@
+## [1.16.1](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.16.0...v1.16.1) (2025-04-11)
+
+
+### Bug Fixes
+
+* dispatch end event on action element rather than document ([e415c5f](https://github.com/CoCreate-app/CoCreate-validation/commit/e415c5fb8da8e1892cdb530d606c8453e2f1d158))
+
 # [1.16.0](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.15.6...v1.16.0) (2024-11-04)
 
 
