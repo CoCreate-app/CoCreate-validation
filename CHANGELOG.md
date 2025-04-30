@@ -1,3 +1,13 @@
+## [1.16.2](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.16.1...v1.16.2) (2025-04-30)
+
+
+### Bug Fixes
+
+* added css-loader ([37549c8](https://github.com/CoCreate-app/CoCreate-validation/commit/37549c8543a4787532613702ba14d251f54af287))
+* update query attributes ([806aeb1](https://github.com/CoCreate-app/CoCreate-validation/commit/806aeb1890e71f06ca0cb0a6f38a643fcfe31135))
+* updated cocreate modules versions ([b32ac43](https://github.com/CoCreate-app/CoCreate-validation/commit/b32ac437b26b7950f6ea385a63017bdf7640ba71))
+* webpack.config and devdependencies ([ee37891](https://github.com/CoCreate-app/CoCreate-validation/commit/ee37891783b587d77c8d25c630cabdfd0f7a39b3))
+
 ## [1.16.1](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.16.0...v1.16.1) (2025-04-11)
 
 
