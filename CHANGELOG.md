@@ -1,3 +1,10 @@
+## [1.16.4](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.16.3...v1.16.4) (2026-02-04)
+
+
+### Bug Fixes
+
+* update worklow ([8126ee1](https://github.com/CoCreate-app/CoCreate-validation/commit/8126ee13fb0e58fdb7e6868a3b4e12f4534f200e))
+
 ## [1.16.3](https://github.com/CoCreate-app/CoCreate-validation/compare/v1.16.2...v1.16.3) (2025-05-01)
 
 
